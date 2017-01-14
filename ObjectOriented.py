@@ -4,10 +4,9 @@ Created on Sat Jan 14 02:23:20 2017
 
 @author: Tayyab Rashid
 
-We will be builing an application which will have some function for school. 
-This will a simple object oriented class. Class will be Student. We will give 
-instroction on a sincle student, and thereafter we will have som variable 
-student and total list of all the student.
+We will be building an application which will have some function for a high school
+the function will be adding new student and assign an unique id number to them
+We will also inheritate Teacher class from Student Class. 
 """
 
 class Student:
